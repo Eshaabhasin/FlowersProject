@@ -1,0 +1,19 @@
+
+body{
+  background-color:pink;
+}
+
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+img{
+  object-fit: cover;
+  border-radius: 50%;
+  height:300px;
+  width:300px;
+  padding: 30px;
+}
+
